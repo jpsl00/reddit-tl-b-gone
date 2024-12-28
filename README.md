@@ -1,2 +1,2 @@
-# reddit-tl-b-gone
-Userscript to remove reddit's tl feature
+# Untranslate Reddit
+Userscript to remove reddit's post translation feature
